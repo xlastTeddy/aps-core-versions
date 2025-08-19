@@ -1,4 +1,5 @@
 {
-  "APS-Core": "1.0.0",
-  "APS-Fishing": "1.2.0",
+  "APS_Core": "1.0.0",
+  "APS_Fishing": "1.0.0",
+  "APS_Notify" : "1.0.0"
 }
